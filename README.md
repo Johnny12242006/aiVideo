@@ -15,3 +15,7 @@
 ❌ 不需要你会写代码。 ❌ 不需要你一帧帧剪辑。 ❌ 不需要你为了字幕对不齐而发愁。
 
 只要你会点上传，它就能帮你出片。这种“有脑子”的工具，真的很难不爱。😍
+
+<img width="1735" height="887" alt="image" src="https://github.com/user-attachments/assets/32aa8240-8e77-4e74-9dbe-6c364f9aecd8" />
+<img width="1432" height="920" alt="image" src="https://github.com/user-attachments/assets/75979688-925b-41db-8cc6-643cef14290c" />
+
